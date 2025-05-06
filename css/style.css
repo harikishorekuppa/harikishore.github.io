@@ -407,7 +407,7 @@ text-align:center;
 	border: #ECECEC 1px solid;
 }
 .panel-heading a.collapsed {
-	color: #333333;
+	color: #2E2E2E;
 	background-color: #FAFAFA;
 }
 .panel-heading a:after {
@@ -669,7 +669,7 @@ padding: 10px 0;
 /* Fixed Header
 ----------------------------------------------------------------------------- */
 .fixed-header-on .header {
-	background-color: rgba(0, 0, 0, 0.95);
+	background-color: #2E2E2E;
 	padding: 5px 0;
 }
 .fixed-header-on .brand {
