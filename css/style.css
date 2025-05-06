@@ -112,7 +112,7 @@ blockquote {
 ----------------------------------------------------------------------------- */
 .header {
 	color: #ffffff;
-	background-color: rgba(0, 0, 0, 1);
+	background-color: #2E2E2E;
 	padding: 10px 0;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
@@ -326,7 +326,7 @@ padding: 70px 0;
 color:#fff;
 }
 .footer.section {
-background: #020202;
+background: #2E2E2E;
 color: #949494;
 }
 .subfooter p {
